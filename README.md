@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Codewars](https://github.r2v.ch/codewars?user=mycodingportfolio)
+
+
 <!--
 **mycodingportfolio/mycodingportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
